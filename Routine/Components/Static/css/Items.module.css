@@ -1,0 +1,23 @@
+.item-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 10px;
+    background-color: #ee7305;
+    padding: 10px;
+    border-radius: 3px;
+    align-items: center;
+}
+.liststyle{
+    padding: 8px;
+    margin: 2px;
+    border-top: 1px solid black;
+    font-size: 28px;
+    transform: scale(0.7);
+    color: black;
+    list-style: none;
+} 
+.liststyle:hover{
+    transform: scale(1);
+    background-color: rgb(161, 191, 221);
+    color: white;
+}

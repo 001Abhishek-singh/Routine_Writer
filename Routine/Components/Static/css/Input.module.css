@@ -1,0 +1,29 @@
+/* Input Design */
+.Input_Design{
+    width: 35%;
+    padding: 12px;
+    border-radius: 8px;
+    color: brown;
+    border: 2px solid grey;
+    box-shadow: 3px 4px 0px 2px gray;
+    cursor: auto;
+    text-align: center;
+    font-weight: 800;
+}
+
+/* Button Design */
+.Button_Design {
+    width: 15%;
+    padding: 10px;
+    border-radius: 14px;
+    margin-left: 26px;
+    margin-top: 6px;
+    font-size: 18px;
+    border: none;
+    box-shadow: 2px 2px 9px 5px lightgray;
+}
+.Button_Design:hover{
+    background-color: lightgreen;
+    transform: scale(0.9);
+    color: white;
+}

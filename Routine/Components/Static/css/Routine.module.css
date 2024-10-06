@@ -1,0 +1,13 @@
+.maincontainer{
+    background-color: lavender;
+    margin: 2px;
+    border: 1px solid gray;
+    padding: 10px;
+}
+.inputAndButton{
+    padding: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 4px;
+}
